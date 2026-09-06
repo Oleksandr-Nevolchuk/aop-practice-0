@@ -12,6 +12,24 @@
 * Java: openjdk 25.04.1
 * Javac: 25.04.1
 * Git: 2.55.0.windows.5
+* ###  Знімок екрана з результатом команд java -version, javac -version, git --version, git config --global --list
+![Версії інструментів та конфігурація Git](Screens/java%20and%20javac.png)
+
+![Глобальні налаштування Git](Screens/gift.png)
+
+###  Знімок екрана з результатом команди ssh -T git@github.com
+![Перевірка автентифікації SSH](Screens/ssh.png)
+
+###  Знімок екрана вікна IntelliJ IDEA з успішно виконаною програмою Hello, World!
+![Запуск програми в IntelliJ IDEA](Screens/IntelliJIDEA.png)
+
+
+
+###  Знімок екрана з розв'язаною задачею Welcome to Java! на HackerRank
+![Успішне вирішення задачі HackerRank](Screens/javahelloworld.png)
+
+###  Знімок екрана з відповіддю ChatGPT на навчальний запит
+![Діалог з ШІ-асистентом](Screens/chatgpt.png)
 
 #Доступ до Claude Code не оформлювався
 

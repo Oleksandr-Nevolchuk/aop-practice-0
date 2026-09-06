@@ -22,7 +22,7 @@
 ![Перевірка автентифікації SSH](Screens/ssh.png)
 
 ### Знімок екрана вікна IntelliJ IDEA з успішно виконаною програмою Hello, World!
-![Запуск програми в InteJ IDEA](Screens/ook.png)
+![Запуск програми в IntelliJ](Screens/ook.png)
 
 
 ###  Знімок екрана з розв'язаною задачею Welcome to Java! на HackerRank

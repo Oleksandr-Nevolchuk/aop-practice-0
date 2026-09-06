@@ -17,11 +17,11 @@
 
 ![Глобальні налаштування Git](Screens/gift.png)
 
-###  Знімок екрана з результатом команди ssh -T git@github.com
+###  Знімок екрана з результатом команди ssh -Tgit@github.com
 ![Перевірка автентифікації SSH](Screens/ssh.png)
 
 ###  Знімок екрана вікна IntelliJ IDEA з успішно виконаною програмою Hello, World!
-![Перевірка автентифікації SSH](Screens/ook.png)
+![Успішне виконання](Screens/ook.png)
 
 ###  Знімок екрана з розв'язаною задачею Welcome to Java! на HackerRank
 ![Успішне вирішення задачі HackerRank](Screens/javahelloworld.png)

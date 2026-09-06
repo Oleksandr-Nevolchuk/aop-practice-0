@@ -21,7 +21,7 @@
 ![Перевірка автентифікації SSH](Screens/ssh.png)
 
 ###  Знімок екрана вікна IntelliJ IDEA з успішно виконаною програмою Hello, World!
-![Запуск програми в IntelliJ IDEA](Screens/IntelliJIDEA.png)
+![Запуск програми в IntelliJ IDEA](Screens/intellij_idea.png)
 
 
 

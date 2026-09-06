@@ -24,7 +24,7 @@
 ![Успішне виконання](Screens/ook.png)
 
 ###  Знімок екрана з розв'язаною задачею Welcome to Java! на HackerRank
-![Успішне вирішення задачі HackerRank](Screens/javahelloworld.png)
+![Вирішення задачі HackerRank](Screens/javahelloworld.png)
 
 ###  Знімок екрана з відповіддю ChatGPT на навчальний запит
 ![Діалог з ШІ-асистентом](Screens/chatgpt.png)

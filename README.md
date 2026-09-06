@@ -12,16 +12,18 @@
 * Java: openjdk 25.04.1
 * Javac: 25.04.1
 * Git: 2.55.0.windows.5
-* ###  Знімок екрана з результатом команд java -version, javac -version, git --version, git config --global --list
-![Версії інструментів та конфігурація Git](Screens/java%20and%20javac.png)
+
+### Знімок екрана з результатом команд java -version, javac -version, git --version, git config --global --list
+![Версії інструментів та конфігурація Git](Screens/java_and_javac.png)
 
 ![Глобальні налаштування Git](Screens/gift.png)
 
-###  Знімок екрана з результатом команди ssh -Tgit@github.com
+### Знімок екрана з результатом команди ssh -T git@github.com
 ![Перевірка автентифікації SSH](Screens/ssh.png)
 
-###  Знімок екрана вікна IntelliJ IDEA з успішно виконаною програмою Hello, World!
-![Успішне виконання](Screens/ook.png)
+### Знімок екрана вікна IntelliJ IDEA з успішно виконаною програмою Hello, World!
+![Запуск програми в IntelliJ IDEA](Screens/ook.png)
+
 
 ###  Знімок екрана з розв'язаною задачею Welcome to Java! на HackerRank
 ![Вирішення задачі HackerRank](Screens/javahelloworld.png)
